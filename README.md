@@ -6,7 +6,7 @@ Sistema inteligente de guía turística y viaje seguro al patrimonio arqueológi
 - ATAO HUAMAN, Yordi Ajeo - 27222121
 
 ## Descripción
-Plataforma web de guía turística para los sitios arqueológicos de Ayacucho (Wari, Vilcashuamán, Intihuatana/Pumacocha, Quinua y otros). LlegueYa **no vende entradas**: guía al turista hacia el sitio de venta (presencial o virtual) mediante su ubicación en el mapa. Además ofrece proveedores con documentación verificada (hospedaje, restaurantes, transporte) con puntuación y comentarios, fotos de experiencias, historias y fotografías de personas, libros con información turística del lugar o festividad (que se notifican a los usuarios) y un chatbot web que recomienda según el presupuesto y el mejor mes para viajar.
+Plataforma web de guía turística para los sitios arqueológicos de Ayacucho (Wari, Vilcashuamán, Intihuatana/Pumacocha, Quinua y otros). LlegueYa **no vendemos entradas**: guía al turista hacia el sitio de venta (presencial o virtual) mediante su ubicación en el mapa. Además ofrece proveedores con documentación verificada (hospedaje, restaurantes, transporte) con puntuación y comentarios, fotos de experiencias, historias y fotografías de personas, libros con información turística del lugar o festividad (que se notifican a los usuarios) y un chatbot web que recomienda según el presupuesto y el mejor mes para viajar.
 
 ## Caso de estudio
 LlegueYa: propuesta de plataforma de turismo seguro para Ayacucho (documento `llegueYa_ARQUITECTURA.pdf`), ajustada para guiar a los sitios de venta en lugar de vender boletos.
