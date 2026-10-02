@@ -13,3 +13,5 @@
 | RC09 | Notificaciones por correo | Las notificaciones de nuevo contenido se envían por correo electrónico (por confirmar). |
 | RC10 | Alcance actual | Por ahora no se implementan los canales WhatsApp ni Telegram; el chatbot es solo web. |
 | RC11 | Derechos de contenido | Las fotografías, historias y libros publicados deben contar con autorización de sus autores o titulares (sugerida). |
+| RC12 | Calendario de festividades fijo| Carnaval (feb–mar), Semana Santa (mar–abr) y Vilcas Raymi (28–29 jul) no se pueden mover; las recomendaciones de mes dependen de ellas.
+| RC13 | Dependencia de fuentes oficiales | Horarios, distancias y datos de temporada provienen de PromPerú, Mincetur y la DDC, y deben mantenerse actualizados.
