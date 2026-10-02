@@ -176,3 +176,10 @@ Tomadas del documento del proyecto: NGINX, HAProxy o balanceador gestionado; Red
 
 - Venta o cobro de entradas, pasarela de pagos, QR de boletos y control de aforo.
 - Chatbot por WhatsApp y Telegram.
+<<<<<<< HEAD
+=======
+
+## DIAGRAMA EN DRAWIO DE LLEGUE YA!
+
+![Esquema de Arquitectura](arquitectura-inicial-drawio.png)
+>>>>>>> f44e5dd8822fafc3b552279b428d0db5dbdc1bbe
