@@ -20,8 +20,4 @@ LlegueYa es una plataforma digital de guía turística para los sitios arqueoló
 | Servicio de IA (modelo de lenguaje) | Generar las respuestas del chatbot apoyándose en la base de conocimiento de LlegueYa. |
 | Servicio de correo | Enviar las notificaciones a los usuarios. |
 
-## Notas
-- El **Proveedor** y el **Administrador** se derivan de la verificación de documentos de hospedajes, restaurantes y transportistas (secciones 3 y 4.3 del documento).
-- Se retiraron respecto a la versión anterior: operador/agencia (reserva de cupos), personal de control de acceso, pasarela de pagos y DDC/Municipalidades (reportes de aforo), porque ya no se venden ni validan boletos.
-- Se asume que las historias, fotografías y libros los publica el Administrador (por confirmar).
-- Se asume el correo como canal de notificación (por confirmar). Quedan fuera WhatsApp y Telegram.
+
